@@ -182,6 +182,7 @@ Welcome to the Code With Drew **Python learning syllabus**! This repository is d
 - *[Hangman Game with Python](https://www.youtube.com/live/_3PNx4JmaNc?si=qjRiE8etVI7HPSoL)*
 - *[File Organizer With Python](https://youtu.be/9YShWDpLFzI?si=cNIoIZmgbFWB60-t)*
 - *[Bagels Puzzle Game With Python](https://youtu.be/EwpiEGq5Pmo?si=Oic5fbwDmmqIFaM8)*
+- *[File Organizer with Python](https://youtu.be/9YShWDpLFzI?si=yfn7pipfLHmyo6HY)*
 
 ## 12. Python GUI (APP) Projects
 - __Tic Tac Toe Game__
@@ -217,4 +218,5 @@ This project is open source and free to use under the [MIT License](LICENSE).
 ## 🙌 Contributing
 
 If you'd like to contribute or suggest an improvement, feel free to fork the repo and submit a pull request!
+
 
