@@ -156,14 +156,13 @@ Welcome to the Code With Drew **Python learning syllabus**! This repository is d
 
 ---
 
-<!-- ## 13. Object-Oriented Programming (OOP)
+## 13. Object-Oriented Programming (OOP)
 - Classes and objects
 - `__init__` method
-- Inheritance and polymorphism
 
-🎥 Video: *[Add Link Here]*
+🎥 Video: *[Introduction to Object Oriented Programming](https://youtu.be/d04RpdKuYXk?si=ymyDsaUp7UHN9C3C)*
 
---- -->
+
 
 <!-- ## 14. Working with Libraries
 - `math`, `random`, `datetime`
