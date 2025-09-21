@@ -161,6 +161,10 @@ Welcome to the Code With Drew **Python learning syllabus**! This repository is d
 - `__init__` method
 
 🎥 Video: *[Introduction to Object Oriented Programming](https://youtu.be/d04RpdKuYXk?si=ymyDsaUp7UHN9C3C)*
+- *[Controlling access level in OOP](https://youtu.be/buqLKux2018?si=Y6N8AeLBxpUXn0sV)*
+- *[Contructor and Destructor in Python OOP](https://youtu.be/Ge6Ebla6W6g?si=xsChgwF_Axn29ida)*
+- *[Python OOP inherintance Explained](https://youtu.be/OYhED1Mlv0k?si=YrptrBINhGAjDgJQ)*
+- *[Forms of inherintance Python OOP](https://youtu.be/mbWX589bDYE?si=BbcfaFRCR24oh0P-)*
 
 
 
@@ -173,7 +177,7 @@ Welcome to the Code With Drew **Python learning syllabus**! This repository is d
 
 --- -->
 
-## 11. Python Projects
+## 14. Python Projects
 - *[Number guessing game](https://www.youtube.com/live/V0BC8VIw75Q?si=Oc6bCFKYwQX200Tn)*
 - *[Dice Roller Simulator](https://youtu.be/Sbxxxodrt2M?si=-goBic7VYAHm9igf)*
 - *[Tic Tac Toe Game](https://www.youtube.com/live/eQpWt13hJFg?si=0oXQFbklO63QNYb6)*
@@ -183,7 +187,7 @@ Welcome to the Code With Drew **Python learning syllabus**! This repository is d
 - *[Bagels Puzzle Game With Python](https://youtu.be/EwpiEGq5Pmo?si=Oic5fbwDmmqIFaM8)*
 - *[File Organizer with Python](https://youtu.be/9YShWDpLFzI?si=yfn7pipfLHmyo6HY)*
 
-## 12. Python GUI (APP) Projects
+## 15. Python GUI (APP) Projects
 - __Tic Tac Toe Game__
 - - *[Part 1](https://youtu.be/0h63TJwyfYs?si=pQIoP9gcuXErOlO_)* 
 - - *[Part 2](https://youtu.be/1_oNapzuhAk?si=IzRyaYnoDEVaK5Dg)* 
